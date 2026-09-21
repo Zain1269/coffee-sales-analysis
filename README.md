@@ -26,12 +26,12 @@ This dashboard was built to answer key business questions such as:
 
 The dashboard focuses on:
 
-* **Sales Trends** — tracking performance over time
-* **Country Analysis** — comparing sales across countries
-* **Roast Type** — analyzing performance by roast
-* **Coffee Size** — comparing different product sizes
-* **Loyalty Card** — examining customer purchasing behavior
-* **Top Customers** — identifying the highest-value customers
+* **Sales Trends** : tracking performance over time
+* **Country Analysis** : comparing sales across countries
+* **Roast Type** : analyzing performance by roast
+* **Coffee Size** : comparing different product sizes
+* **Loyalty Card** :examining customer purchasing behavior
+* **Top Customers** : identifying the highest-value customers
 
 ## Tools & Techniques
 
