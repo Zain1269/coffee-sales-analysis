@@ -30,7 +30,7 @@ The dashboard focuses on:
 * **Country Analysis** : comparing sales across countries
 * **Roast Type** : analyzing performance by roast
 * **Coffee Size** : comparing different product sizes
-* **Loyalty Card** :examining customer purchasing behavior
+* **Loyalty Card** : examining customer purchasing behavior
 * **Top Customers** : identifying the highest-value customers
 
 ## Tools & Techniques
